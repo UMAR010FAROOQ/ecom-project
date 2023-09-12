@@ -17,6 +17,10 @@ iframe {
     padding-left: var(--bs-gutter-x, 0.75rem);
     padding-right: var(--bs-gutter-x, 0.75rem); } }
 
+body img{
+  object-fit: cover;
+}
+
 .bg-1 {
   background-color: #00234D; }
 
